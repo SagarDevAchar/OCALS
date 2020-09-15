@@ -4,14 +4,14 @@
 
 **Coded By:**     Sagar Dev Achar
 # #
-### Introduction: ###
+### Introduction ###
 
 To all the lazy ones out there, here's something for you. Attend your Online Classes automatically at the click of a button.
 
 Launch OCALS in the morning and just watch it do it's work. Automatically Join and Exit classes without moving a finger with OCALS
 # #
 
-### Description: ###
+### Description ###
 
 **Selenium** + **ChromeDriver** based script which simulates a student's visit and actions on *Google Meet* and automatically waits, enters and exits Google Meet classes on the basis of their start times. Microphone and Video access are disabled by default before joining a Session
 
@@ -25,7 +25,7 @@ An **Automated Chrome** instance is used as the operating browser.
 
 The Python Script is packaged into an executable with the help of the **pyinstaller** module
 # #
-### Respository Contents: ###
+### Respository Contents ###
 - #### /Distributable: 
 	Contains the Packaged Executable *([OCALS.exe](https://github.com/SagarDevAchar/OCALS/blob/master/Distributable/OCALS.exe))* and ChromeDriver *([chromedriver.exe](https://github.com/SagarDevAchar/OCALS/blob/master/Distributable/chromedriver.exe))*
 - #### /Source Code:
@@ -37,7 +37,7 @@ The Python Script is packaged into an executable with the help of the **pyinstal
 - #### SECURITY.md:
 	Security Declaration for the code and executables
 # #
-### System Requirements: ###
+### System Requirements ###
 
 - OS: Windows 10 / 8.1 / 8 / 7
 - Google Chrome (v85.0 or above)
