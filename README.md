@@ -24,6 +24,12 @@ Launch OCALS in the morning and just watch it do it's work. Automatically Join a
 - Do NOT move any files in the OCALS Folder
 # #
 
+### Updates ###
+
+- **16 September 2019 4:59 AM (CRITICAL):**
+	A *major bug* was identified which was causing the session to be exited after 15 minutes rather than 1 hour. Old files have been removed and **Corrected code and executable has been uploaded**. Users are requested to delete any old files downloaded and re-download the files. Sorry for the inconvenience!
+# #
+
 ### Description ###
 
 **Selenium** + **ChromeDriver** based script which simulates a student's visit and actions on *Google Meet* and automatically waits, enters and exits Google Meet classes on the basis of their start times. Microphone and Video access are disabled by default before joining a Session
