@@ -1,16 +1,25 @@
 # OCALS - Online Class Automatic Login System #
-## Automatic Login System for Google Meet Classes ##
+### Automatic Login System for Google Meet Classes ###
 **Completed on:** 15 September 2020 05:03 PM
 
 **Coded By:**     Sagar Dev Achar
 # #
+### Introduction: ###
+
+To all the lazy ones out there, here's something for you. Attend your Online Classes automatically at the click of a button.
+
+Launch OCALS in the morning and just watch it do it's work. Automatically Join and Exit classes without moving a finger with OCALS
+# #
+
 ### Description: ###
 
-**Selenium** + **ChromeDriver** based script which simulates a student's visit and actions on *Google Meet* and automatically waits, enters and exits Google Meet classes on the basis of their start times
+**Selenium** + **ChromeDriver** based script which simulates a student's visit and actions on *Google Meet* and automatically waits, enters and exits Google Meet classes on the basis of their start times. Microphone and Video access are disabled by default before joining a Session
 
 Works on the following assumptions:
 - Google Meet is the medium for the classes
-- Duration of classes is 1 hour
+- Duration of classes is 1 hour each
+- The classes schedule is updated in the Student's Google Calendar
+- The user holds an average and stable internet connection
 
 An **Automated Chrome** instance is used as the operating browser.
 
