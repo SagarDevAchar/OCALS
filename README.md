@@ -11,6 +11,19 @@ To all the lazy ones out there, here's something for you. Attend your Online Cla
 Launch OCALS in the morning and just watch it do it's work. Automatically Join and Exit classes without moving a finger with OCALS
 # #
 
+### Quickstart Guide to using OCALS ###
+
+1. Download and Extract the contents of this Repository
+1. Double Click on the *OCALS.exe* file inside the *Distributable* folder
+1. Enter your Username and Password when asked
+1. Enjoy!
+
+**NOTE:** 
+- Do NOT close the new Google Chrome Window opened by the program
+- Do NOT close the running application
+- Do NOT move any files in the OCALS Folder
+# #
+
 ### Description ###
 
 **Selenium** + **ChromeDriver** based script which simulates a student's visit and actions on *Google Meet* and automatically waits, enters and exits Google Meet classes on the basis of their start times. Microphone and Video access are disabled by default before joining a Session
