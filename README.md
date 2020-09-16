@@ -8,10 +8,14 @@
 
 To all the lazy ones out there, here's something for you. Attend your Online Classes automatically at the click of a button.
 
-Launch OCALS in the morning and just watch it do it's work. Automatically Join and Exit classes without moving a finger with OCALS
+Launch OCALS in the morning and just watch it do its work. Automatically Join and Exit classes without moving a finger with OCALS
 # #
 
 ### Quickstart Guide to using OCALS ###
+
+Get Started with OCALS in 2 minutes with the following video!
+
+[![OCALS - Quickstart Guide](https://img.youtube.com/vi/HPncyWwoDcA/0.jpg)](https://www.youtube.com/watch?v=HPncyWwoDcA)
 
 1. Download and Extract the contents of this Repository
 1. Double Click on the *OCALS.exe* file inside the *Distributable* folder
@@ -47,7 +51,7 @@ The Python Script is packaged into an executable with the help of the **pyinstal
 # #
 ### Respository Contents ###
 - #### /Distributable: 
-	Contains the Packaged Executable *([OCALS.exe](https://github.com/SagarDevAchar/OCALS/blob/master/Distributable/OCALS.exe))* and ChromeDriver *([chromedriver.exe](https://github.com/SagarDevAchar/OCALS/blob/master/Distributable/chromedriver.exe))*
+	Contains the Packaged Executable *([OCALS.exe](https://github.com/SagarDevAchar/OCALS/blob/master/Distributable/OCALS.exe))* and ChromeDriver *([chromedriver.exe](https://github.com/SagarDevAchar/OCALS/blob/master/Distributable/chromedriver.exe))*. Please read the *[Usage Instructions](https://github.com/SagarDevAchar/OCALS/blob/master/Distributable/Usage%20Instructions.md)* before proceeding with the usage
 - #### /Source Code:
 	Contains the working Python Code *([OCALS.py](https://github.com/SagarDevAchar/OCALS/blob/master/Source%20Code/OCALS.py))* for the project. Accessible to all coders via the *MIT Licence*
 - #### LICENSE:
